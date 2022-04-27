@@ -6,3 +6,4 @@ label = tk.Label(root, text="Hello World", padx=10, pady=10)
 label.pack()
 
 root.mainloop()
+print('test2')
